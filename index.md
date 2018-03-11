@@ -1,7 +1,7 @@
 ## Orhan Obut
 Android GDE @Atlassian @Sydney
 
-[github](https://github.com/orhanobut) | [blog](https://medium.com/@orhanobut) | [twitter](https://twitter.com/orhanobut) | [GDE](https://developers.google.com/experts/people/orhan-obut)
+[github](https://github.com/orhanobut) - [blog](https://medium.com/@orhanobut) - [twitter](https://twitter.com/orhanobut) - [GDE](https://developers.google.com/experts/people/orhan-obut)
 
 #### Open source projects
 - [logger](https://github.com/orhanobut/logger)
