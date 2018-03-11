@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Orhan Obut
+Android GDE @Atlassian @Sydney
 
-You can use the [editor on GitHub](https://github.com/orhanobut/orhanobut.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[github](https://github.com/orhanobut) | [blog](https://medium.com/@orhanobut) | [twitter](https://twitter.com/orhanobut) | [GDE](https://developers.google.com/experts/people/orhan-obut)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Open source projects
+- [logger](https://github.com/orhanobut/logger)
+- [hawk](https://github.com/orhanobut/hawk)
+- [dialog plus](https://github.com/orhanobut/dialogplus)
+- [bee](https://github.com/orhanobut/bee)
+- [versionist](https://github.com/orhanobut/versionist)
+- [simple list view](https://github.com/orhanobut/simplelistview)
+- [mockwebserver plus](https://github.com/orhanobut/mockwebserverplus)
+- [tracklytics](https://github.com/orhanobut/tracklytics)
+- [wasp](https://github.com/orhanobut/wasp)
+- [rootchecker](https://github.com/orhanobut/rootchecker)
+- [effective android](https://github.com/orhanobut/effective-android)
+- [effective android-security](https://github.com/orhanobut/effective-android-security)
+- [swipe menu in openGL](https://github.com/orhanobut/swipemenu)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orhanobut/orhanobut.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Blog posts
+- [Android 101 - Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
+- [Android 101 - Shared preferences](https://proandroiddev.com/shared-preferences-101-aee26c13e4)
+- [Android 101 - Typography](https://proandroiddev.com/android-and-typography-101-5f06722dd611)
+- [Code review should be fun](https://medium.com/p/code-review-should-be-fun-fcaa3b1d12b0)
+- [No-op version for dev tools](https://medium.com/p/no-op-versions-for-dev-tools-b0a865934398)
+- [What happened last week #4](https://medium.com/p/what-happened-last-week-04-13cb8f0f2502)
+- [What happened last week #3](https://medium.com/p/log-03-284b0c445190)
+- [What happened last week #2](https://medium.com/p/log-02-528d912fd61f)
+- [What happened last week #1](https://medium.com/p/log-01-88d476fa638d)
+- [Test before integration](https://medium.com/p/test-before-integrate-e713090070d6)
+- [Avoid null with null object](https://medium.com/p/avoid-null-with-null-object-9723b04b6d48)
+- [Yet again, law of demeter](https://medium.com/p/yet-again-law-of-demeter-4a7e8fa7707d)
+- [Consider interface seggragation](https://medium.com/p/consider-interface-segregation-c120c5ddacc5)
+- [Favor composition over inheritance](https://medium.com/p/favor-composition-over-inheritance-a3e5462d01f5)
+- [Consider static factory method](https://medium.com/p/consider-static-factory-method-8c0d4eaa5e73)
+- [Be aware of bus context issue](https://medium.com/p/be-aware-of-bus-context-issue-d195d8ce9a5d)
